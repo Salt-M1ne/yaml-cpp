@@ -1,4 +1,4 @@
-project "yaml-cpp"
+project "yamlcpp"
 	kind "StaticLib"
 	language "C++"
 
